@@ -1,6 +1,6 @@
 Movie Projects
 
-A React-based web application that allows users to search for and view movie details using The Movie Database (TMDb) API. Users can explore movies, add them to a favorites list, and enjoy a responsive user interface. This project was built to practice key React concepts and frontend development skills.
+A React-based web application that allows users to search for and view movie details using The Movie Database (TMDb) API. Users can explore movies, add them to a favorites list, and enjoy a responsive user interface.
 
 Features
 
