@@ -1,16 +1,24 @@
-Movie Projects
+# Movie Projects
 
 A React-based web application that allows users to search for and view movie details using The Movie Database (TMDb) API. Users can explore movies, add them to a favorites list, and enjoy a responsive user interface.
 
-Features
+## 🎯 Live Demo
 
-Movie Search: Search for movies using the TMDb API and display results dynamically.
+**👉 [Try it online here!](https://movie-projects-nine.vercel.app)** ← Click to explore movies
 
-Favorites List: Save favorite movies to a personalized list.
+![React](https://img.shields.io/badge/React-19.2.0-blue?style=flat-square)
+![Vite](https://img.shields.io/badge/Vite-5.4-purple?style=flat-square)
+![TMDb API](https://img.shields.io/badge/TMDb%20API-3.0-green?style=flat-square)
 
-Responsive Design: Styled with CSS for a seamless experience across devices.
+---
 
-Dynamic Rendering: Utilizes conditional rendering and state management for a smooth user experience.
+## ✨ Features
+
+- **Movie Search** - Search for movies using the TMDb API and display results dynamically
+- **Favorites List** - Save favorite movies to a personalized list
+- **Movie Details** - View comprehensive information about each movie
+- **Responsive Design** - Styled for a seamless experience across devices
+- **Dynamic Rendering** - Smooth user experience with conditional rendering and state management
 
 Technologies Used
 
